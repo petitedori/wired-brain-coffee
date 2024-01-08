@@ -4,7 +4,7 @@ issueConfigs:
 # There can be several configs for different kind of issues.
 - content:
 # Example 1: bug report
-  - "Describe the Bug"
+  - "Describe the bug"
   - "Steps to Reproduce"
   - "Expected Behavior"
   - "Current Behavior"
