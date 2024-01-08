@@ -17,8 +17,8 @@ Steps to reproduce the behavior:
 3. Scroll down to '....'
 4. See error
 
-**Expected Behaviour**
+**Expected Behavior**
 A clear and concise description of what you expected to happen.
 
-**Current Behaviour**
+**Current Behavior**
 The current behaviour
